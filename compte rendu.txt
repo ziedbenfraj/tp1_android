@@ -1,0 +1,1 @@
+2019-10-07 21:29:31.466 31882-31882/com.example.app1 D/MainActivity: Rép Question 1:activity_main.xml
